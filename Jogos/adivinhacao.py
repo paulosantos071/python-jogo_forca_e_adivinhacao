@@ -24,7 +24,7 @@ def jogar():
     else:
         total_tentativas = 5
 
-    # não faz a necessidade de usar criar uma variavel contador e ir incrementando ela, o for faz isso
+    # não faz a necessidade de criar uma variavel contador e ir incrementando ela, o for faz isso
     # cria uma variavel, e dentro do range fala o ponto de inicio e fim
     for contador in range(1, total_tentativas+1):
 
